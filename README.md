@@ -22,29 +22,30 @@ I also work on migrating Xamarin native and Forms apps into .NET MAUI.
 
 🛠️ **I build using:** <br/>
 <p align="left">
-  <a href="#">
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
     <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/languages/csharp.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
-  <a href="#">
+  <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/languages/csharp_dotnet.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
-  <a href="#">
+  <a href="https://dotnet.microsoft.com/en-us/apps/xamarin/xamarin-forms">
     <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/frameworks/xamarin_forms.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
-  <a href="#">
+  <a href="https://learn.microsoft.com/en-us/xamarin/android/">
     <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/frameworks/xamarin_android.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
-  <a href="#">
+  <a href="https://learn.microsoft.com/en-us/xamarin/ios/">
     <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/dev/frameworks/xamarin_ios.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 </p>
 
 🏅 **Certifications** <br/>
 <p align="left">
-<a href="#">
+<a href="https://www.credly.com/badges/5c9f85b9-0a55-4f1b-aad1-3c06095ebd9a/linked_in?t=rjpo2f">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzgwang0MmltbHE0aGY1bzI1d3RweWVvYzA1dnAwcmptYm1nNmg0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CBFOxlDsuAaozaE1D5/giphy.gif" alt="example badge" style="vertical-align:center margin:6px 2px" width="100" height="100">
   </a>
 </p>
+<h6><a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/">Click here to learn more about this certification</a></h6>
 
 💻 **I’m currently learning & exploring:** <br/>
 <p align="left">
@@ -69,7 +70,7 @@ I also work on migrating Xamarin native and Forms apps into .NET MAUI.
   <a href="https://twitter.com/themsguy_">
     <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/social/twitter.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
-  <a href="https://www.linkedin.com/in/themsguy">
+  <a href="https://www.linkedin.com/in/themicrosoftguy">
     <img src="https://github.com/mehul19851/mehul19851/blob/master/ColoredBadges/svg/social/linkedin.svg" alt="example badge" style="vertical-align:center margin:6px 2px">
   </a>
 </p>
